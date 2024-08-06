@@ -1,0 +1,10 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggest.showReferences": false,
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.snippetSuggestions": "none",
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.hover.above": true,
+    "editor.hover.enabled": false
+}
